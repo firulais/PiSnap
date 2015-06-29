@@ -6,6 +6,7 @@ Snap! on RaspberryPi
 
     * http://snap.berkeley.edu
     * Modified
+    
         ```
         . Direct Export Project on File
         . Change Logo Image
@@ -15,8 +16,8 @@ Snap! on RaspberryPi
         
     
 #### FileSaver.js
-    * https://github.com/eligrey/FileSaver.js
-    * File Export Library.
+ * https://github.com/eligrey/FileSaver.js
+ * File Export Library.
 
 #### snap-RPi
     * https://github.com/pbrown66/snap-RPi
