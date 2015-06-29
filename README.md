@@ -1,11 +1,11 @@
 # PiSnap
 Snap! on RaspberryPi
 
-# Used OSS
-### Snap!
+### Used OSS
+#### Snap!
+
     * http://snap.berkeley.edu
     * Modified
-    
         ```
         . Direct Export Project on File
         . Change Logo Image
@@ -14,11 +14,11 @@ Snap! on RaspberryPi
         ```
         
     
-### FileSaver.js
+#### FileSaver.js
     * https://github.com/eligrey/FileSaver.js
     * File Export Library.
 
-### snap-RPi
+#### snap-RPi
     * https://github.com/pbrown66/snap-RPi
     * Enables us to use the GPIOs on a Raspberry Pi from Snap!.
 
