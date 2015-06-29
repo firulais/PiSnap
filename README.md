@@ -1,9 +1,8 @@
 # PiSnap
---
 Snap! on RaspberryPi
 
 ### Used OSS
-------------
+--
 #### Snap!
 * http://snap.berkeley.edu
 * Modified
@@ -20,7 +19,8 @@ Snap! on RaspberryPi
 * https://github.com/pbrown66/snap-RPi
 * Enables us to use the GPIOs on a Raspberry Pi from Snap!.
 
---------------
+--
+
 ### Setup
 * First, must check this basic raspberrypi configuration.
     * run raspi-config
@@ -35,6 +35,8 @@ $ git clone https://github.com/rasplay/PiSnap.git
 $ cd PiSnap
 $ sh setup.sh
 ```
+
+--
 
 ### Run
 * Restart RPi
