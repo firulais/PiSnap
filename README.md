@@ -1,3 +1,5 @@
+# We are OpenMake Team on the RaspberryPi Village (http://www.rasplay.org)
+
 # PiSnap
 Snap! on RaspberryPi
 
