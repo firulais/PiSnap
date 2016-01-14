@@ -44,5 +44,5 @@ $ sh setup.sh
 * Restart RPi
 * Double Click PiSnap Desktop Icon
  
-### korean language post here : 
+### korean language post here : How to install on the Raspberry-Pi
 * http://www.rasplay.org/?p=23946
