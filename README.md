@@ -43,3 +43,6 @@ $ sh setup.sh
 ### Run
 * Restart RPi
 * Double Click PiSnap Desktop Icon
+ 
+### korean language post here : 
+* http://www.rasplay.org/?p=23946
