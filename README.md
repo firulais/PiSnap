@@ -48,7 +48,8 @@ $ sh setup.sh
 * http://www.rasplay.org/?p=23946
 
 #### Pi Snap Block Sample 
-* LED : 
 
 * RC-Car :
-* Fruit Piano : 
+![Alt Text](https://github.com/rasplay/PiSnap/blob/master/image/PiSnap_RCCar.jpg) 
+
+* Fruit P![Alt Text](https://github.com/rasplay/PiSnap/blob/master/image/pi_piano_final.png)
