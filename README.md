@@ -46,3 +46,9 @@ $ sh setup.sh
  
 ### korean language post here : How to install on the Raspberry-Pi
 * http://www.rasplay.org/?p=23946
+
+## Pi Snap Block Sample 
+* LED : 
+
+* RC-Car :
+* Fruit Piano : 
