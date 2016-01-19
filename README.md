@@ -50,7 +50,7 @@ $ sh setup.sh
 #### Pi Snap Block Sample 
 
 * RC-Car block
-![Alt Text](https://github.com/rasplay/PiSnap/blob/master/image/PiSnap_RCCar.jpg) 
+![Alt Text](https://github.com/rasplay/PiSnap/blob/master/image/PiSnap_RCCar.png) 
 
 * Fruit Piano block
 ![Alt Text](https://github.com/rasplay/PiSnap/blob/master/image/pi_piano_final.png)
