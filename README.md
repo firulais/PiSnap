@@ -3,14 +3,12 @@
 ## PiSnap
 Snap! on RaspberryPi , Web and local education platform.
 
+[PiSnap IMG File](http://downloads.rasplay.org/pisnap/PiSnap_beta.tar.gz)
+
 ![Alt Text](http://i2.wp.com/www.rasplay.org/wp-content/uploads/Pisnap_3.png?resize=768%2C432)
 
 ### Used OSS
 --
-
-#### PiSnap IMG File Download
-
-[PiSnap IMG File](http://downloads.rasplay.org/pisnap/PiSnap_beta.tar.gz)
 
 #### Snap!
 * http://snap.berkeley.edu
