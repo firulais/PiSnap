@@ -3,7 +3,7 @@
 ## PiSnap
 Snap! on RaspberryPi , Web and local education platform.
 
-[PiSnap IMG File](http://downloads.rasplay.org/pisnap/PiSnap_beta.tar.gz)
+[PiSnap IMG File to Click](http://downloads.rasplay.org/pisnap/PiSnap_beta.tar.gz)
 
 ![Alt Text](http://i2.wp.com/www.rasplay.org/wp-content/uploads/Pisnap_3.png?resize=768%2C432)
 
