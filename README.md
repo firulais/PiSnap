@@ -8,9 +8,9 @@ Snap! on RaspberryPi , Web and local education platform.
 ### Used OSS
 --
 
-#### Pi Snap IMG File Download
+#### PiSnap IMG File Download
 
-[a link](http://downloads.rasplay.org/pisnap/PiSnap_beta.tar.gz)
+[PiSnap IMG File](http://downloads.rasplay.org/pisnap/PiSnap_beta.tar.gz)
 
 #### Snap!
 * http://snap.berkeley.edu
